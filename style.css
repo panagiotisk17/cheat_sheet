@@ -1,0 +1,44 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: aquamarine;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: orangered;
+  text-align: center;
+}
+
+h3 {
+  color: yellow;
+}
+
+table {
+  border: 2px solid blueviolet;
+  width: 800px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: limegreen;
+}
+
+th {
+  border: 2px solid blueviolet;
+}
+
+td {
+  border-top: 2px solid blueviolet;
+  border-bottom: 2px solid blueviolet;
+  border-left: 2px solid blueviolet;
+  border-right: 2px solid blueviolet;
+}
+
+.code {
+  font-family: monospace;
+  background-color: lemonchiffon;
+}
